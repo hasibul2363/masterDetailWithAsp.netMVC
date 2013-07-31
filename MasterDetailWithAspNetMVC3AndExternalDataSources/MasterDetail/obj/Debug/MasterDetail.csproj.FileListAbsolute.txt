@@ -1,0 +1,71 @@
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\MasterDetail.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\MasterDetail.pdb
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\EntityFramework.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\EntityFramework.xml
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\obj\Debug\ResolveAssemblyReference.cache
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\obj\Debug\MasterDetail.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\obj\Debug\MasterDetail.pdb
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\System.Data.SqlServerCe.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\System.Data.SqlServerCe.Entity.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\WebActivator.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\WebActivator.pdb
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\MasterDetail.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\MasterDetail.pdb
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\EntityFramework.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\System.Data.SqlServerCe.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\System.Data.SqlServerCe.Entity.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\WebActivator.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\EntityFramework.xml
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\bin\WebActivator.pdb
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\obj\Debug\ResolveAssemblyReference.cache
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\obj\Debug\MasterDetail.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail\MasterDetail\obj\Debug\MasterDetail.pdb
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail_v2\MasterDetail\bin\MasterDetail.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail_v2\MasterDetail\bin\MasterDetail.pdb
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail_v2\MasterDetail\bin\EntityFramework.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail_v2\MasterDetail\bin\System.Data.SqlServerCe.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail_v2\MasterDetail\bin\System.Data.SqlServerCe.Entity.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail_v2\MasterDetail\bin\WebActivator.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail_v2\MasterDetail\bin\EntityFramework.xml
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail_v2\MasterDetail\bin\WebActivator.pdb
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail_v2\MasterDetail\obj\Debug\ResolveAssemblyReference.cache
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail_v2\MasterDetail\obj\Debug\MasterDetail.dll
+E:\Hasibul_Workplace\MVC\MasterDetail_UsingDataTable\MasterDetail_v2\MasterDetail\obj\Debug\MasterDetail.pdb
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail_v3\MasterDetail\bin\MasterDetail.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail_v3\MasterDetail\bin\MasterDetail.pdb
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail_v3\MasterDetail\bin\EntityFramework.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail_v3\MasterDetail\bin\System.Data.SqlServerCe.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail_v3\MasterDetail\bin\System.Data.SqlServerCe.Entity.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail_v3\MasterDetail\bin\WebActivator.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail_v3\MasterDetail\bin\WebActivator.pdb
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail_v3\MasterDetail\obj\Debug\ResolveAssemblyReference.cache
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail_v3\MasterDetail\obj\Debug\MasterDetail.dll
+L:\My Practice\MVC\MasterDetail_UsingDataTable\MasterDetail_v3\MasterDetail\obj\Debug\MasterDetail.pdb
+C:\Users\hasibul\Desktop\MasterDetail_v3\MasterDetail\bin\MasterDetail.dll
+C:\Users\hasibul\Desktop\MasterDetail_v3\MasterDetail\bin\MasterDetail.pdb
+C:\Users\hasibul\Desktop\MasterDetail_v3\MasterDetail\bin\EntityFramework.dll
+C:\Users\hasibul\Desktop\MasterDetail_v3\MasterDetail\bin\System.Data.SqlServerCe.dll
+C:\Users\hasibul\Desktop\MasterDetail_v3\MasterDetail\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\hasibul\Desktop\MasterDetail_v3\MasterDetail\bin\WebActivator.dll
+C:\Users\hasibul\Desktop\MasterDetail_v3\MasterDetail\bin\WebActivator.pdb
+C:\Users\hasibul\Desktop\MasterDetail_v3\MasterDetail\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hasibul\Desktop\MasterDetail_v3\MasterDetail\obj\Debug\MasterDetail.dll
+C:\Users\hasibul\Desktop\MasterDetail_v3\MasterDetail\obj\Debug\MasterDetail.pdb
+C:\Users\hasibul\Desktop\MasterDetail_v4\MasterDetail\bin\MasterDetail.dll
+C:\Users\hasibul\Desktop\MasterDetail_v4\MasterDetail\bin\MasterDetail.pdb
+C:\Users\hasibul\Desktop\MasterDetail_v4\MasterDetail\bin\EntityFramework.dll
+C:\Users\hasibul\Desktop\MasterDetail_v4\MasterDetail\bin\System.Data.SqlServerCe.dll
+C:\Users\hasibul\Desktop\MasterDetail_v4\MasterDetail\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\hasibul\Desktop\MasterDetail_v4\MasterDetail\bin\WebActivator.dll
+C:\Users\hasibul\Desktop\MasterDetail_v4\MasterDetail\bin\WebActivator.pdb
+C:\Users\hasibul\Desktop\MasterDetail_v4\MasterDetail\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hasibul\Desktop\MasterDetail_v4\MasterDetail\obj\Debug\MasterDetail.dll
+C:\Users\hasibul\Desktop\MasterDetail_v4\MasterDetail\obj\Debug\MasterDetail.pdb
+C:\Users\hasibul\Desktop\MyDeskTop\master detail CRUD\C#\MasterDetail\bin\MasterDetail.dll
+C:\Users\hasibul\Desktop\MyDeskTop\master detail CRUD\C#\MasterDetail\bin\MasterDetail.pdb
+C:\Users\hasibul\Desktop\MyDeskTop\master detail CRUD\C#\MasterDetail\bin\EntityFramework.dll
+C:\Users\hasibul\Desktop\MyDeskTop\master detail CRUD\C#\MasterDetail\bin\Simple.Data.dll
+C:\Users\hasibul\Desktop\MyDeskTop\master detail CRUD\C#\MasterDetail\bin\EntityFramework.xml
+C:\Users\hasibul\Desktop\MyDeskTop\master detail CRUD\C#\MasterDetail\obj\Debug\MasterDetail.csprojResolveAssemblyReference.cache
+C:\Users\hasibul\Desktop\MyDeskTop\master detail CRUD\C#\MasterDetail\obj\Debug\MasterDetail.dll
+C:\Users\hasibul\Desktop\MyDeskTop\master detail CRUD\C#\MasterDetail\obj\Debug\MasterDetail.pdb
